@@ -1,0 +1,14 @@
+12:57:56 [main] INFO  service.reader.ReaderFromFile - Successful reading
+12:58:16 [main] INFO  service.reader.ReaderFromFile - Successful reading
+12:58:33 [main] INFO  service.reader.ReaderFromFile - Successful reading
+12:58:43 [main] ERROR service.reader.ReaderFromFile - Unsuccessful reading
+12:59:13 [main] ERROR service.reader.ReaderFromFile - Unsuccessful reading
+13:00:02 [main] ERROR service.reader.ReaderFromFile - File not found
+13:01:31 [main] ERROR service.reader.ReaderFromFile - File not found
+22:23:07 [main] ERROR service.reader.ReaderFromFile - File not found
+22:23:40 [main] ERROR service.reader.ReaderFromFile - File not found
+22:25:13 [main] INFO  service.reader.ReaderFromFile - Successful reader
+22:26:20 [main] INFO  service.reader.ReaderFromFile - Successful reader
+22:27:02 [main] INFO  service.reader.ReaderFromFile - Successful reader
+22:31:31 [main] INFO  service.reader.ReaderFromFile - Successful reader
+22:32:13 [main] INFO  service.reader.ReaderFromFile - Successful reader
